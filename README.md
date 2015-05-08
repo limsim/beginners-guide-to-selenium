@@ -1,2 +1,2 @@
 # Beginner's guide to Selenium
-Code for Intro to Selenium meetup
+Code for Beginner's Guide to Selenium meetup
